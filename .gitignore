@@ -1,0 +1,5 @@
+# Lines starting with '#' are considered comments.
+# Ignore directory cache
+cache/
+# Ignore directory log
+log/
